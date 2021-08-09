@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karol-code-3005
-- 👀 I’m interested in problem solving, data bases, new technologies and the purest creation
+- 👀 I’m interested in problem solving, new technologies and the purest creation
 - 🌱 I’m currently learning Python, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me karol_bieniaszewski@o2.pl
